@@ -1,13 +1,16 @@
-# TradingRobotPlug
+# UltimateOptionsTradingRobot
 
-TradingRobotPlug is an advanced automated trading platform designed to analyze, predict, and execute trading strategies using machine learning and reinforcement learning. This project combines various data sources, sophisticated models, and a PyQt5 interface to offer real-time trading capabilities.
+UltimateOptionsTradingRobot is an advanced automated options trading platform designed for strategic trade execution using sophisticated data analysis and predictive models.
 
 ## Features
-- **Data Fetching**: Integrates stock, news, and economic data.
-- **Predictive Models**: Includes models like LSTM and Transformer for market prediction.
-- **Reinforcement Learning**: Optimizes strategies through trial and error.
-- **Risk Management**: Tools to monitor and mitigate risks.
-- **PyQt5 Interface**: Provides a user-friendly GUI for managing and monitoring strategies.
+- **Data Integration**: Combines stock, news, and market data for comprehensive analysis.
+- **Predictive Models**: Uses LSTM and other models to forecast trends.
+- **Real-time Execution**: Optimized for live, high-frequency trades.
+- **Risk Management**: Monitors and controls exposure.
+- **User Interface**: PyQt5 GUI for managing and tracking strategies.
 
 ## Getting Started
-1. Clone the repository.
+1. **Clone the Repository**:
+   ```bash
+   git clone <repo-url>
+   cd UltimateOptionsTradingRobot

@@ -12,5 +12,5 @@ UltimateOptionsTradingRobot is an advanced automated options trading platform de
 ## Getting Started
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/Dadudekc/UltimateOptionsTradingRobot>
+   git clone https://github.com/Dadudekc/UltimateOptionsTradingRobot
    cd UltimateOptionsTradingRobot
